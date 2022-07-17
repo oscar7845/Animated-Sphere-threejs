@@ -1,7 +1,7 @@
 # Three.js Starter
 
 Animated sphere
--Sphere created using three.js
+- Sphere created using three.js
 
 
 
