@@ -1,7 +1,9 @@
 # Three.js Starter
 Animated sphere
 
-http://192.168.10.127:8080 
+Project running at:
+  - http://192.168.10.127:8080
+
 
 
 ## Setup
