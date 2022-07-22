@@ -3,7 +3,7 @@
 Animated sphere
 - Sphere created using three.js
 
-![GIF](https://i.ibb.co/FKT5gpg/sphere.gif)
+[PROJECT GIF](https://i.ibb.co/FKT5gpg/sphere.gif)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
